@@ -24,3 +24,4 @@
 - Desc Divisão
 - Marca
 - Segmento
+
